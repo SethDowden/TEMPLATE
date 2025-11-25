@@ -1,0 +1,3 @@
+[cache]
+    dir = /vol/share/population_research/.dvc-cache
+    shared = group
