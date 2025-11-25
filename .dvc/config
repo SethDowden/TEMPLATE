@@ -2,3 +2,7 @@
     dir = /vol/share/population_research/.dvc-cache
     shared = group
     type = symlink
+[core]
+    remote = prc_remote
+['remote "prc_remote"']
+    url = /vol/share/population_research/.dvc-remote
